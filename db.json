@@ -1,14 +1,125 @@
 {
   "recipes": [
-    { "id": 1, "author": { "id": 1, "author_name": "Meg Moore", "author_avatar": "https://secureimages.allrecipes.com/userphotos/250x250/1316235.jpg" }, "title": "Paleo Omelet Muffins" , "url_to_image": "https://images.media-allrecipes.com/userphotos/720x405/1364436.jpg"},
-    { "id": 2, "author": { "id": 1, "author_name": "Meg Moore", "author_avatar": "https://secureimages.allrecipes.com/userphotos/250x250/1316235.jpg" }, "title": "Zucchini Brownies" , "url_to_image": "https://images.media-allrecipes.com/userphotos/720x405/103496.jpg"},
-    { "id": 3, "author": { "id": 2, "author_name": "Terry", "author_avatar": "https://images.media-allrecipes.com/userphotos/250x250/278792.jpg"}, "title": "Simple White Cake" , "url_to_image": "https://images.media-allrecipes.com/userphotos/720x405/1437162.jpg"}
+    {
+      "id": 1,
+      "recipes": [
+        {
+          "id": 1,
+          "author": {
+            "id": 1,
+            "author_name": "Meg Moore",
+            "author_avatar": "https://secureimages.allrecipes.com/userphotos/250x250/1316235.jpg"
+          },
+          "title": "Paleo Omelet Muffins",
+          "url_to_image": "https://images.media-allrecipes.com/userphotos/720x405/1364436.jpg"
+        },
+        {
+          "id": 2,
+          "author": {
+            "id": 1,
+            "author_name": "Meg Moore",
+            "author_avatar": "https://secureimages.allrecipes.com/userphotos/250x250/1316235.jpg"
+          },
+          "title": "Zucchini Brownies",
+          "url_to_image": "https://images.media-allrecipes.com/userphotos/720x405/103496.jpg"
+        },
+        {
+          "id": 3,
+          "author": {
+            "id": 2,
+            "author_name": "Terry",
+            "author_avatar": "https://images.media-allrecipes.com/userphotos/250x250/278792.jpg"
+          },
+          "title": "Simple White Cake",
+          "url_to_image": "https://images.media-allrecipes.com/userphotos/720x405/1437162.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "recipes": [
+        {
+          "id": 1,
+          "author": {
+            "id": 1,
+            "author_name": "Meg Moore",
+            "author_avatar": "https://secureimages.allrecipes.com/userphotos/250x250/1316235.jpg"
+          },
+          "title": "Paleo Omelet Muffins",
+          "url_to_image": "https://images.media-allrecipes.com/userphotos/720x405/1364436.jpg"
+        },
+        {
+          "id": 2,
+          "author": {
+            "id": 1,
+            "author_name": "Meg Moore",
+            "author_avatar": "https://secureimages.allrecipes.com/userphotos/250x250/1316235.jpg"
+          },
+          "title": "Zucchini Brownies",
+          "url_to_image": "https://images.media-allrecipes.com/userphotos/720x405/103496.jpg"
+        },
+        {
+          "id": 3,
+          "author": {
+            "id": 2,
+            "author_name": "Terry",
+            "author_avatar": "https://images.media-allrecipes.com/userphotos/250x250/278792.jpg"
+          },
+          "title": "Simple White Cake",
+          "url_to_image": "https://images.media-allrecipes.com/userphotos/720x405/1437162.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "recipes": [
+        {
+          "id": 1,
+          "author": {
+            "id": 1,
+            "author_name": "Meg Moore",
+            "author_avatar": "https://secureimages.allrecipes.com/userphotos/250x250/1316235.jpg"
+          },
+          "title": "Paleo Omelet Muffins",
+          "url_to_image": "https://images.media-allrecipes.com/userphotos/720x405/1364436.jpg"
+        },
+        {
+          "id": 2,
+          "author": {
+            "id": 1,
+            "author_name": "Meg Moore",
+            "author_avatar": "https://secureimages.allrecipes.com/userphotos/250x250/1316235.jpg"
+          },
+          "title": "Zucchini Brownies",
+          "url_to_image": "https://images.media-allrecipes.com/userphotos/720x405/103496.jpg"
+        },
+        {
+          "id": 3,
+          "author": {
+            "id": 2,
+            "author_name": "Terry",
+            "author_avatar": "https://images.media-allrecipes.com/userphotos/250x250/278792.jpg"
+          },
+          "title": "Simple White Cake",
+          "url_to_image": "https://images.media-allrecipes.com/userphotos/720x405/1437162.jpg"
+        }
+      ]
+    }
   ],
   "authors": [
-    { "id": 1, "author_name": "Meg Moore", "author_avatar": "https://secureimages.allrecipes.com/userphotos/250x250/1316235.jpg" },
-    { "id": 2, "author_name": "Terry", "author_avatar": "https://images.media-allrecipes.com/userphotos/250x250/278792.jpg"}
+    {
+      "id": 1,
+      "author_name": "Meg Moore",
+      "author_avatar": "https://secureimages.allrecipes.com/userphotos/250x250/1316235.jpg"
+    },
+    {
+      "id": 2,
+      "author_name": "Terry",
+      "author_avatar": "https://images.media-allrecipes.com/userphotos/250x250/278792.jpg"
+    }
   ],
   "profile": {
-    "id": 1, "name": "Ali Mohammed"
+    "id": 1,
+    "name": "Ali Mohammed"
   }
 }
