@@ -1,107 +1,208 @@
 {
   "recipes": [
     {
-      "id": 1,
+      "page_id": 1,
       "recipes": [
         {
           "id": 1,
           "author": {
             "id": 1,
-            "author_name": "Meg Moore",
-            "author_avatar": "https://secureimages.allrecipes.com/userphotos/250x250/1316235.jpg"
+            "author_name": "ahmed alkhashab",
+            "author_avatar": "https://media-exp1.licdn.com/dms/image/C5603AQGei3hJbf-myA/profile-displayphoto-shrink_800_800/0?e=1586390400&v=beta&t=NDKr4GaPvd5hW4BkgbvAoP-I6HIL7Q-z39EhkOFEeOQ"
           },
-          "title": "Paleo Omelet Muffins",
-          "url_to_image": "https://images.media-allrecipes.com/userphotos/720x405/1364436.jpg"
+          "title": "Tomato Creamy Sause Penne",
+          "method_description": "1.In a pot of boiling salted water, add the pasta to cook for 8 minutes until cooked through, drain \n2.In a small saucepan over medium-high heat, add butter, then add the onions,ginger and garlic, cook for 3 minutes until tender. Add chopped tomato and peas, salt and pepper. Cook until tomato is soft and mushy.Add the cooked pasta. Mix well. The add the cheese followed by the milk.Remove from heat and leave to cool down. Add to the lunchbox",
+          "url": "https://www.goodykitchen.com/en/recipes/tomato-creamy-sause-penne/",
+          "url_to_image": "https://www.goodykitchen.com/media/compressor/uploads/recipe-file/59eb58aa951da6069fc23b4d/59eb5824b13e2.jpg",
+          "published_at": "2020-01-10'T'10:32:27'Z'",
+          "ingredients": "½ cup Goody Shortcut Pasta \n1 tbsp Butter \n1 tbsp Ginger \n1 tbsp garlic \n1 Small onion finely chopped \n1 can Goody Chopped Tomato \n½ cup grated Cheddar Cheese \n¼ cup Whole Milk \n1 cup frozen peas, thowed \nsalt and pepper \n"
         },
         {
           "id": 2,
           "author": {
-            "id": 1,
-            "author_name": "Meg Moore",
-            "author_avatar": "https://secureimages.allrecipes.com/userphotos/250x250/1316235.jpg"
+            "id": 2,
+            "author_name": "ayman ibrahim",
+            "author_avatar": "https://avatars0.githubusercontent.com/u/7036489?s=400&v=4"
           },
-          "title": "Zucchini Brownies",
-          "url_to_image": "https://images.media-allrecipes.com/userphotos/720x405/103496.jpg"
+          "title": "Grape leaves cake",
+          "method_description": "1.In a medium pot in medium high heat, add 2 tablespoons of oil and margarine, add the onions and sauté for 3 minutes until translucent. Add the garlic and sauté until fragrant. Add Minced meat and stir until browned. Add the rice and mix with the minced meat. Add the pomegranate syrup, tomato, parsley and dill and stir to combine\n2.Preheat the oven to 200 degrees C. Brush a 22cm round baking dish with oil. \n3.Add some salt and pepper to the stock to taste \n4.Lay the potato slices to cover the bottom of the baking dish, then start laying the vine leaves in the baking dish making sure to cover all the bottom and the sides. Add the rice mix, press gently to make single layer. Cover with the remaining vine leaves to cover the top. Cover the baking dish with aluminum paper and place with in the oven for 25-30 minutes until cooked through\n5.Put the serving dish on top of the baking dish and flip the cake. Garnish with pomegranate seeds and lime slices and serve.",
+          "url": "https://www.goodykitchen.com/en/recipes/grape-leaves-cake/",
+          "url_to_image": "https://www.goodykitchen.com/media/compressor/uploads/recipe-file/5b013c76951da683b4af5a17/5b013952473b9.jpg",
+          "published_at": "2020-01-09'T'16:16:45'Z'",
+          "ingredients": "4 tbsps vegetable oil\n1 tbsps margarine\n1 cup onion, chopped\n3 cloves garlic, minced\n1 ½ cups minced meat\n1 ½ cups rice, rinsed and drained\n¼ cup pomegranate syrup\n½ cup Goody Tomato, peeled and chopped\n½ cup fresh parsley leaves, chopped\n½ cup fresh dill, chopped\n2 Goody Stock cubes, dissolved in 3 cups of warm water\nSalt and pepper to taste\n1 large Potato, sliced\n1 Jar Goody Vine Leaves, rinsed and drained\n¼ cup of pomegranate seeds and slices of lime for garnish"
         },
         {
           "id": 3,
           "author": {
-            "id": 2,
-            "author_name": "Terry",
-            "author_avatar": "https://images.media-allrecipes.com/userphotos/250x250/278792.jpg"
+            "id": 3,
+            "author_name": "khaled annajar",
+            "author_avatar": "https://media-exp1.licdn.com/dms/image/C4E03AQGoKD258jqLAQ/profile-displayphoto-shrink_800_800/0?e=1586390400&v=beta&t=Z5ezmAzwVhhUKRp7nifo7DZsmaqZlTvQdR4gDnZrTNw"
           },
-          "title": "Simple White Cake",
-          "url_to_image": "https://images.media-allrecipes.com/userphotos/720x405/1437162.jpg"
+          "title": "Chicken Fajita Macaroni",
+          "method_description": "1.    In a pot over the heat, boil the pasta in boiling salted water as shown on the package.\n2.    In a pan over the heat, put some olive oil and then the chicken slices until the chicken is browned, and acquires the golden color, and then place it aside in a dish.\n3.    In the same pan, fry the onions and garlic, then put the bell pepper while stirring constantly. Add the chicken and spices; stirring constantly until the ingredients are incorporated and the chicken is cooked. Add the pasta sauce and stir. Add the boiled pasta and stir, then remove it from the heat and serve hot.",
+          "url": "https://www.goodykitchen.com/en/recipes/chicken-fajita-macaroni/",
+          "url_to_image": "https://www.goodykitchen.com/media/compressor/uploads/recipe-file/5cb650da951da6d0bb8b456f/8.jpg",
+          "published_at": "2020-01-08'T'13:47:32'Z'",
+          "ingredients": "4 Chicken Breasts, sliced\n1 Bell Pepper of all available colors (green, red and yellow), sliced\n1 large Onion, cut into thin wings\n2 Garlic Cloves, mashed\n1 pack of Goody Penne Lisce \n1 Tsp of Goody Natural Sugar Cane Vinegar\nSalt and Black Pepper to taste\nSpices: 1/2 Tsp of each (Turmeric – Lemon Spice – Cumin – Dry Coriander – Mixed Spices – Chicken Spices)\n1 pack of Goody Marinara Sauce"
+        },
+        {
+          "id": 4,
+          "author": {
+            "id": 4,
+            "author_name": "mohamed hamdy",
+            "author_avatar": "https://media-exp1.licdn.com/dms/image/C5603AQF-L9t3IXX5Zg/profile-displayphoto-shrink_800_800/0?e=1586390400&v=beta&t=Fo8llEPJ1Okxm_KELdNpiMumReFZbSGqbZIyI1_2SpI"
+          },
+          "title": "Mosakaa Boats",
+          "method_description": "1.    Add eggplant halves into oven tray, Bruch it with olive oil, add salt and pepper then using a fork create holes in it \n2.    Bake it for20 minutes while covered with aluminum foil, then bake it uncovered for another 10 minutes \n3.    For stuffing: add 3 table spoons olive oil into cast iron then add onions and cook it, add garlic and cook for another minute, then add minced beef and cook it well, then add Goody tomato, salt & pepper and cook it for 10 minutes \n4.    In a bowl mix yoghurt with garlic and salt\n5.    Stuff cooked eggplants with minced beef mix\n6.    Garnish with yoghurt mix and pine",
+          "url": "https://www.goodykitchen.com/en/recipes/mosakaa-boats/",
+          "url_to_image": "https://www.goodykitchen.com/media/compressor/uploads/recipe-file/5df8a028951da658118b4569/mosaka%20boats2.jpg",
+          "published_at": "2020-01-07'T'12:24:16'Z'",
+          "ingredients": "4 medium eggplants cut into halves\n500 gm minced beef\n1 small onion diced \n2 garlic cloves \n1 can of Goody diced tomato \nSalt& pepper\nQuarter cup of olive oil\n1 cup of yoghurt \n1 garlic clove \nQuarter cup of coriander \nPine nuts for garnish"
+        },
+        {
+          "id": 5,
+          "author": {
+            "id": 1,
+            "author_name": "ahmed alkhashab",
+            "author_avatar": "https://media-exp1.licdn.com/dms/image/C5603AQGei3hJbf-myA/profile-displayphoto-shrink_800_800/0?e=1586390400&v=beta&t=NDKr4GaPvd5hW4BkgbvAoP-I6HIL7Q-z39EhkOFEeOQ"
+          },
+          "title": "Palestinian Spinach and Chickpea Stew",
+          "method_description": "1.    In a medium pot over medium heat, add 2 tablespoons of olive oil. Once hot, add the onion and cook, stirring occasionally, until softened and slightly translucent. \n2.    Add cumin and coriander to the pot of onions. Add the garlic, allspice, black pepper, and nutmeg, stir well, and continue cooking until the garlic is fragrant\n3.    Add Goody chickpeas and water, bring to a boil, then lower the heat to maintain a strong simmer. Then add spinach \n4.    Then, add the lemon juice, salt, and the remaining 2 tablespoons of olive oil. Cook for 5–10 minutes, then adjust the seasoning, adding more lemon juice or salt as desired",
+          "url": "https://www.goodykitchen.com/en/recipes/palestinian-spinach-and-chickpea-stew/",
+          "url_to_image": "https://www.goodykitchen.com/media/compressor/uploads/recipe-file/5df8a084951da689f28b4569/chick%20pea%20spanish%20stew.jpg",
+          "published_at": "2020-01-06'T'15:36:19'Z'",
+          "ingredients": "1⁄4 cup extra-virgin olive oil\n1 medium yellow onion, finely chopped \n1 1⁄2 tsp. cumin \n1 1⁄2 tsp. coriander\n4 medium garlic cloves, coarsely crushed with mortar and pestle\n1⁄2 tsp. ground allspice\n1⁄2 tsp. freshly ground black pepper\n1⁄4 tsp. freshly grated nutmeg\n1 tsp. salt, plus more as needed\nTwo cans of Goody chickpeas, drained and rinsed\n2 1⁄4 cups water\n500 gm fresh baby spinach, coarsely chopped\n1⁄4 cup fresh lemon juice, plus more as needed"
+        },
+        {
+          "id": 6,
+          "author": {
+            "id": 2,
+            "author_name": "ayman ibrahim",
+            "author_avatar": "https://avatars0.githubusercontent.com/u/7036489?s=400&v=4"
+          },
+          "title": "Spicy Shrimp stew",
+          "method_description": "1.    Heat 2 tablespoons extra-virgin olive oil in a large pan over medium. Add the onion and cook, stirring occasionally, until softened. Add Goody Canned tomatoes, the cumin and allspice; 1/2 teaspoon each salt and pepper; and 1 cup water and bring to a simmer.\n2.    Meanwhile, mash the jalapeño, garlic, dill and 1/2 teaspoon salt together using a mortar for a few minutes. Add to the tomato sauce and stir to combine. Cover and simmer over low heat, stirring occasionally to break down the tomatoes, until sauce is thickened and flavors meld, about 20 minutes.\n3.    Stir in the shrimp, and cook over medium heat, stirring occasionally, until they have just turned pink.\n4.    To serve, drizzle with a generous amount of extra-virgin olive oil and scatter with the sesame seeds and chopped parsley.",
+          "url": "https://www.goodykitchen.com/en/recipes/spicy-shrimp-stew/",
+          "url_to_image": "https://www.goodykitchen.com/media/compressor/uploads/recipe-file/5df8a0ba951da651118b456e/spicy%20shrimp%20stew.jpg",
+          "published_at": "2020-01-05'T'16:59:38'Z'",
+          "ingredients": "3 tbsps extra-virgin olive oil\n1 medium red onion, finely chopped\n1 can of Goody whole, peeled tomatoes\n¾ tsp ground cumin\n¼ tsp ground allspice\nsalt and ground black pepper\n1 to 2 jalapeños, finely chopped\n3 garlic cloves, chopped\n2 tbsps finely chopped fresh dill\n2 tbsps sesame seeds, toasted \n500 gm raw medium shrimp, peeled and deveined, tails removed\nCoarsely chopped parsley leaves and lemon for serving"
+        },
+        {
+          "id": 7,
+          "author": {
+            "id": 3,
+            "author_name": "khaled annajar",
+            "author_avatar": "https://media-exp1.licdn.com/dms/image/C4E03AQGoKD258jqLAQ/profile-displayphoto-shrink_800_800/0?e=1586390400&v=beta&t=Z5ezmAzwVhhUKRp7nifo7DZsmaqZlTvQdR4gDnZrTNw"
+          },
+          "title": "Old fashioned beef stew",
+          "method_description": "1.    Combine the flour and pepper in a bowl, add the beef and coat well. Heat 3 teaspoons of the oil in a large pot. Add the beef; do not overcrowd. Cook, turning the pieces until beef is browned on all sides, about 5 minutes per batch; add more oil as needed between batches.\n2.    Remove the beef from the pot and add the Goody Cider vinegar. Cook over medium-high heat, scraping the pan with a wooden spoon to loosen any browned bits. Add the beef, beef broth and bay leaves. Bring to a boil, then reduce to a slow simmer.\n3.    Cover and cook, skimming broth from time to time, until the beef is tender, about 1 1/2 hours. Add the onions and carrots and simmer, covered, for 10 minutes. Add the potatoes and simmer until vegetables are tender, about 30 minutes more. Add broth or water if the stew is dry. Season with salt and pepper to taste. Ladle among 4 bowls and serve.",
+          "url": "https://www.goodykitchen.com/en/recipes/old-fashioned-beef-stew/",
+          "url_to_image": "https://www.goodykitchen.com/media/compressor/uploads/recipe-file/5df8a152951da657118b456a/old%20fashion%20stew.jpg",
+          "published_at": "2020-01-04'T'09:39:25'Z'",
+          "ingredients": "¼ cup all-purpose flour\n¼ tsp freshly ground pepper\n500 gm meat, trimmed and cut into inch cubes\n5 tsp olive oil\n2 tbsps Goody Cider vinegar\n3 ½ cups beef broth, homemade\n2 bay leaves\n1 medium onion, peeled and chopped\n5 medium carrots, peeled and cut into rounds\n2 large potatoes, peeled and cut into cubes\n2 tsp salt "
+        },
+        {
+          "id": 8,
+          "author": {
+            "id": 4,
+            "author_name": "mohamed hamdy",
+            "author_avatar": "https://media-exp1.licdn.com/dms/image/C5603AQF-L9t3IXX5Zg/profile-displayphoto-shrink_800_800/0?e=1586390400&v=beta&t=Fo8llEPJ1Okxm_KELdNpiMumReFZbSGqbZIyI1_2SpI"
+          },
+          "title": "Mexican Cannelloni",
+          "method_description": "1.    heat oven to 180C.\n2.    Cook Goody Cannelloni pasta according to instructions\n3.    Cook mince until brown, stir in seasoning mix and 1/4 cup of water and cook for a further 1 minute. \n4.    Divide meat evenly on Goody Cannelloni pasta pieces. Spread Old El paso salsa on top of cannelloni and sprinkle with cheese. \n5.    Bake 15 - 20 minutes or till golden brow",
+          "url": "https://www.goodykitchen.com/en/recipes/mexican-cannelloni/",
+          "url_to_image": "https://www.goodykitchen.com/media/compressor/uploads/recipe-file/5dbfe249951da6c9a88b4568/mexican%20cannelloni.jpg",
+          "published_at": "2020-01-03'T'14:18:54'Z'",
+          "ingredients": "1 cup Cheese grated \n600 grams Beef Mince \n4 tbsp Taco Seasoning Mix \n1 pack Goody Cannelloni Pasta \n1 cup of old El paso Tomato Salsa"
+        },
+        {
+          "id": 9,
+          "author": {
+            "id": 1,
+            "author_name": "ahmed alkhashab",
+            "author_avatar": "https://media-exp1.licdn.com/dms/image/C5603AQGei3hJbf-myA/profile-displayphoto-shrink_800_800/0?e=1586390400&v=beta&t=NDKr4GaPvd5hW4BkgbvAoP-I6HIL7Q-z39EhkOFEeOQ"
+          },
+          "title": "Summer Pasta Salad",
+          "method_description": "1.Cook the pasta in a large pot of salted boiling water. Drain and toss with the milk in a large bowl; set aside.\n2.In a large skillet over medium-high heat, heat olive oil. Add the tomatoes, thyme and garlic to the pan and toss until warmed through; season with salt and pepper. Toss the tomato mixture with the pasta.\n3.Mix the mayonnaise, sour cream and 3 tablespoons chives with the pasta until evenly combined. Season with salt and pepper. Add the lettuce; toss again to coat. Garnish with the remaining 1 tablespoon spring onions. Serve at room temperature.",
+          "url": "https://www.goodykitchen.com/en/recipes/summer-pasta-salad/",
+          "url_to_image": "https://www.goodykitchen.com/media/compressor/uploads/recipe-file/5b5c43ff951da6b833ac25df/summer%20pasta%20salad.jpg",
+          "published_at": "2020-01-02'T'06:47:41'Z'",
+          "ingredients": "1 pack Goody Farfalle Pasta\n½ cup milk\n1 tbsp olive oil\n3 medium ripe tomatoes, cut into chunks\n1 tbsp chopped fresh thyme\n1 garlic clove, minced\nKosher salt and freshly ground pepper\n½ cup Goody mayonnaise\n¼ cup sour cream\n4 tbsp spring onions, chopped\n5 cups lettuce, chopped"
+        },
+        {
+          "id": 10,
+          "author": {
+            "id": 2,
+            "author_name": "ayman ibrahim",
+            "author_avatar": "https://avatars0.githubusercontent.com/u/7036489?s=400&v=4"
+          },
+          "title": "Spinach Pesto Penne",
+          "method_description": "1.    Boil the pasta according to the instructions mentioned on the pack; then drain it and put it aside.\n2.    In a pot over the heat, add olive oil, garlic, and cherry tomatoes; stir until the tomatoes wilt; then add the pesto. Stir together and then take the pot off the heat.\n3.    Add the hot pasta to the pesto sauce and stir well. When serving, add small mozzarella cheese balls and garnish the dish with a little olive oil.",
+          "url": "https://www.goodykitchen.com/en/recipes/spinach-pesto-penne/",
+          "url_to_image": "https://www.goodykitchen.com/media/compressor/uploads/recipe-file/5db6bcc4951da6bc2f8b456e/spinach%20pesto%20penne.jpg",
+          "published_at": "2020-01-01'T'12:33:25'Z'",
+          "ingredients": "1 can of Goody Pasta with Spinach – Penne Rigate\n2 Tbsps Olive Oil\n2 Garlic Cloves, mashed\n10 Cherry Tomatoes \n5 Tbsps Goody Pesto Sauce\nMozzarella Cheese, small balls"
         }
       ]
     },
     {
-      "id": 2,
+      "page_id": 2,
       "recipes": [
         {
-          "id": 1,
+          "id": 11,
           "author": {
-            "id": 1,
-            "author_name": "Meg Moore",
-            "author_avatar": "https://secureimages.allrecipes.com/userphotos/250x250/1316235.jpg"
+            "id": 3,
+            "author_name": "khaled annajar",
+            "author_avatar": "https://media-exp1.licdn.com/dms/image/C4E03AQGoKD258jqLAQ/profile-displayphoto-shrink_800_800/0?e=1586390400&v=beta&t=Z5ezmAzwVhhUKRp7nifo7DZsmaqZlTvQdR4gDnZrTNw"
           },
-          "title": "Paleo Omelet Muffins",
-          "url_to_image": "https://images.media-allrecipes.com/userphotos/720x405/1364436.jpg"
+          "title": "Baking Sheet Pasta",
+          "method_description": "1.    Heat the oven at 180oC.\n2.    In a large pan over medium heat, place the oil, parsley, and garlic; and sauté-fry them for about a minute, while taking care not to burn the garlic. Add the tomatoes, chicken stock, salt, and pepper, and let the mixture boil; stirring constantly. Once the mixture is boiled, reduce the heat and leave the mixture over low heat for a period between about 15 – 20 minutes; until it is incorporated; stirring from time to time.\n3.    Boil the pasta according to the instructions mentioned on the pack; then drain it and put it aside. Once it is boiled, keep some of the water used in the boiling aside.\n4.    Add the pasta to the sauce, then add some of the boil water when needed, and stir them together. Prepare the baking sheet in the form of bags, and place the pasta inside it. Sprinkle it with cheese, capers, and basil.\n5.    In an oven sheet, place the baking sheet and place it in the oven for about 8 – 10 minutes, then take out the sheet.",
+          "url": "https://www.goodykitchen.com/en/recipes/baking-sheet-pasta/",
+          "url_to_image": "https://www.goodykitchen.com/media/compressor/uploads/recipe-file/5db6bc89951da6a40d8b456c/baking%20sheet%20pasta%20web.jpg",
+          "published_at": "2019-12-31'T'13:18:49'Z'",
+          "ingredients": "2 Tbsps Olive Oil\n2 Garlic Cloves, minced\n2 Tbsps Fresh Parsley, minced\n2 cups of Fresh Cherry Tomatoes – minced \n1/2 cup of Chicken Stock\nSalt and Black Pepper to taste\n1 pack Goody Pasta Fusilli Colored \n1/4 cup of Parmesan Cheese, grated\n2 Tbsps Fresh Basil, minced\n1 Tbsp Capers\nBaking Sheets"
         },
         {
-          "id": 2,
+          "id": 12,
           "author": {
-            "id": 1,
-            "author_name": "Meg Moore",
-            "author_avatar": "https://secureimages.allrecipes.com/userphotos/250x250/1316235.jpg"
+            "id": 4,
+            "author_name": "mohamed hamdy",
+            "author_avatar": "https://media-exp1.licdn.com/dms/image/C5603AQF-L9t3IXX5Zg/profile-displayphoto-shrink_800_800/0?e=1586390400&v=beta&t=Fo8llEPJ1Okxm_KELdNpiMumReFZbSGqbZIyI1_2SpI"
           },
-          "title": "Zucchini Brownies",
-          "url_to_image": "https://images.media-allrecipes.com/userphotos/720x405/103496.jpg"
+          "title": "Mac & Cheese with Broccoli and Pesto Alfredo Sauce",
+          "method_description": "1.    Heat the oven at 180oC.\n2.    In a bowl filled with boiling water over the heat, add the broccoli and boil it for 5 minutes until it becomes tender. Take out the broccoli from the water once and place it in a cold water to stop the cooking process. Cut the broccoli into fingertip pieces and leave them aside.\n3.    Boil the pasta according to the instructions mentioned on the pack.\n4.    In a pot over low heat, add the Pesto Alfredo sauce and leave it until it is heated, then add the garlic. Stir the sauce, and then add the cheddar cheese. Stir the mixture until the cheese melts.\n5.    In an 8 inch x 12 inch flat oven sheet, put the pasta and broccoli, and mix them together; then pour the Alfredo sauce and the cheese over the pasta. Stir together and sprinkle the parmesan cheese over the top.\n6.    Put the sheet in the oven on the middle rack and bake for 30 minutes.",
+          "url": "https://www.goodykitchen.com/en/recipes/mac-cheese-with-broccoli-and-pesto-alfredo-sauce/",
+          "url_to_image": "https://www.goodykitchen.com/media/compressor/uploads/recipe-file/5db6bc49951da6bc2f8b4569/mac%20&%20cheese%20with%20broccoli%20and%20pesto%20alfredo%20sauce.jpg",
+          "published_at": "2019-12-30'T'10:49:27'Z'",
+          "ingredients": "1/2 Broccoli, fresh\n1 pack of Goody Pasts Large Ditalini Lisce \n1 pack of Goody Pesto Alfredo Pasta Sauce\n3 Garlic Cloves, minced\n1/2 cup of Cheddar Cheese, grated\n4 Tbsps Unsalted Butter\n1 tsp Salt\n1/2 tsp Black Pepper\n1/2 cup of Parmesan Cheese, grated"
         },
         {
-          "id": 3,
+          "id": 13,
+          "author": {
+            "id": 1,
+            "author_name": "ahmed alkhashab",
+            "author_avatar": "https://media-exp1.licdn.com/dms/image/C5603AQGei3hJbf-myA/profile-displayphoto-shrink_800_800/0?e=1586390400&v=beta&t=NDKr4GaPvd5hW4BkgbvAoP-I6HIL7Q-z39EhkOFEeOQ"
+          },
+          "title": "Indian Butter Chicken",
+          "method_description": "1.    In a deep bowl, mix together the tandoori paste and yoghurt to prepare the dressing; then soak the chicken in the mixture and refrigerate it for 30 minutes or overnight.2.    In a pan over the heat, heat the oil and add the chicken; then stir it until it turns golden brown; and then place it in a side dish.3.    Using the same pan, melt the butter and add the onions; stir together for a few minutes, then add the garlic. Continue stirring until the onions wilt.4.    Return the chicken pieces to the pan and add the sieved tomatoes; then leave the mixture to be cooked over low heat for a couple of minutes until the mixture is incorporated. Afterwards, add the cream and stir together for a couple of minutes. Serve with Indian naan bread or rice.",
+          "url": "https://www.goodykitchen.com/en/recipes/indian-butter-chicken/",
+          "url_to_image": "https://www.goodykitchen.com/media/compressor/uploads/recipe-file/5db6bc09951da6a50d8b456c/indian%20butter%20chicken.jpg",
+          "published_at": "2019-12-29'T'08:28:37'Z'",
+          "ingredients": "1/4 cup of Tandoori Curry Paste\n1/4 cup of Yoghurt\n500g Fillet Chicken Breasts, diced\n3 Tbsps Vegetable Oil\n2 Tbsps Butter\n1 Onion, diced\n3 Garlic Cloves, mashed\n1 cup of Goody Sieved Tomatoes\n2 Tbsps Low-Fat Cooking Cream"
+        },
+        {
+          "id": 14,
           "author": {
             "id": 2,
-            "author_name": "Terry",
-            "author_avatar": "https://images.media-allrecipes.com/userphotos/250x250/278792.jpg"
+            "author_name": "ayman ibrahim",
+            "author_avatar": "https://avatars0.githubusercontent.com/u/7036489?s=400&v=4"
           },
-          "title": "Simple White Cake",
-          "url_to_image": "https://images.media-allrecipes.com/userphotos/720x405/1437162.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "recipes": [
-        {
-          "id": 1,
-          "author": {
-            "id": 1,
-            "author_name": "Meg Moore",
-            "author_avatar": "https://secureimages.allrecipes.com/userphotos/250x250/1316235.jpg"
-          },
-          "title": "Paleo Omelet Muffins",
-          "url_to_image": "https://images.media-allrecipes.com/userphotos/720x405/1364436.jpg"
-        },
-        {
-          "id": 2,
-          "author": {
-            "id": 1,
-            "author_name": "Meg Moore",
-            "author_avatar": "https://secureimages.allrecipes.com/userphotos/250x250/1316235.jpg"
-          },
-          "title": "Zucchini Brownies",
-          "url_to_image": "https://images.media-allrecipes.com/userphotos/720x405/103496.jpg"
-        },
-        {
-          "id": 3,
-          "author": {
-            "id": 2,
-            "author_name": "Terry",
-            "author_avatar": "https://images.media-allrecipes.com/userphotos/250x250/278792.jpg"
-          },
-          "title": "Simple White Cake",
-          "url_to_image": "https://images.media-allrecipes.com/userphotos/720x405/1437162.jpg"
+          "title": "Pressed Pasta",
+          "method_description": "1.    In a pressure cooker, place the oil, onions, and garlic, and if you want, add the hot pepper; then add the whole spices; stir until the onions are browned. Add the chicken and stir it with the mixture; then add the tomatoes and leave the chicken over the heat for 20 minutes to be cooked.\n2.    After the chicken is cooked, drain the water from the spices, and then return it to the cooker. Add the salt, black pepper, and spices, and stir together. Afterwards, add the pasta and leave it according to the period mentioned on the pack until it is cooked. Serve hot.",
+          "url": "https://www.goodykitchen.com/en/recipes/pressed-pasta/",
+          "url_to_image": "https://www.goodykitchen.com/media/compressor/uploads/recipe-file/5db6bbb8951da6b52f8b4569/pressed%20pasta.jpg",
+          "published_at": "2019-12-28'T'14:53:21'Z'",
+          "ingredients": "3 Tbsps Vegetable Oil\n2 Onions, minced\n2 Garlic Cloves, mashed or equivalent to 1 teaspoon\nMixed Whole-Grain Spices (Lumi, Cardamom, Cinnamon, Coriander, Cumin, Clove, Bay Leaves)\n1 kg Chicken Breasts, chopped\n1 pack of Goody Sieved Tomatoes\n1 Tbsp Salt\n1 tsp Black Pepper\n1 spoon of Mixed Spices, ground\n2 packs of Goody Pasta with Tomato – Penne Rigate "
         }
       ]
     }
@@ -109,13 +210,23 @@
   "authors": [
     {
       "id": 1,
-      "author_name": "Meg Moore",
-      "author_avatar": "https://secureimages.allrecipes.com/userphotos/250x250/1316235.jpg"
+      "author_name": "ahmed alkhashab",
+      "author_avatar": "https://media-exp1.licdn.com/dms/image/C5603AQGei3hJbf-myA/profile-displayphoto-shrink_800_800/0?e=1586390400&v=beta&t=NDKr4GaPvd5hW4BkgbvAoP-I6HIL7Q-z39EhkOFEeOQ"
     },
     {
       "id": 2,
-      "author_name": "Terry",
-      "author_avatar": "https://images.media-allrecipes.com/userphotos/250x250/278792.jpg"
+      "author_name": "ayman ibrahim",
+      "author_avatar": "https://avatars0.githubusercontent.com/u/7036489?s=400&v=4"
+    },
+    {
+      "id": 3,
+      "author_name": "khaled annajar",
+      "author_avatar": "https://media-exp1.licdn.com/dms/image/C4E03AQGoKD258jqLAQ/profile-displayphoto-shrink_800_800/0?e=1586390400&v=beta&t=Z5ezmAzwVhhUKRp7nifo7DZsmaqZlTvQdR4gDnZrTNw"
+    },
+    {
+      "id": 4,
+      "author_name": "mohamed hamdy",
+      "author_avatar": "https://media-exp1.licdn.com/dms/image/C5603AQF-L9t3IXX5Zg/profile-displayphoto-shrink_800_800/0?e=1586390400&v=beta&t=Fo8llEPJ1Okxm_KELdNpiMumReFZbSGqbZIyI1_2SpI"
     }
   ],
   "profile": {
